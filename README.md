@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Jaime Chirrinze
-- 👀 My interest is to be the best that I can be
+- 👀 My interest is to be a profesional Android Developer, developing applications
+-     to automate processes and achieve good results
 - 🌱 I’m currently learning Kotlin, Java and Flutter
-- 💞️ I’m looking to collaborate on big projects
+- 💞️ I’m looking to collaborate on projects with other people to exchange experiences
 - 📫 How to reach me ...my email is jaimechirrinzy@gmail.com
 
 <!---
